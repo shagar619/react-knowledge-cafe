@@ -1,0 +1,55 @@
+[
+    {
+        "id": 1,
+        "cover": "https://i.ibb.co.com/nD0ZXTk/hand-drawn-web-developers-23-2148819604.jpg",
+        "title": "Top 10 ES6 Features You Must Know.  It brought several new features like, let and const keyword, rest and spread operators, template literals, classes, modules and many other enhancements to make JavaScript programming easier and more fun.",
+        "author_img": "https://i.ibb.co/VvLNdLL/boy1.png",
+        "author": "Hamza Sohail",
+        "posted_date": "September 15, 2023",
+        "reading_time": 5,
+        "hashtags": [
+            "beginners",
+            "es6"
+        ]
+    },
+    {
+        "id": 2,
+        "cover": "https://i.ibb.co.com/b1MQf4D/istockphoto-1289323170-2048x2048.jpg",
+        "title": "JavaScript Objects for Absolute Beginners: It's designed on a simple object-based paradigm. An object is a collection of properties, and a property is an association between a name (or key) and a value. A property's value can be a function, in which case the property is known as a method.",
+        "author_img": "https://i.ibb.co/7rFSJx5/girl1.jpg",
+        "author": "Sajal Ali",
+        "posted_date": "August 28, 2023",
+        "reading_time": 4,
+        "hashtags": [
+            "javascript",
+            "coding",
+            "dev"
+        ]
+    },
+    {
+        "id": 3,
+        "cover": "https://i.ibb.co.com/xqqx8Pt/flat-lay-workstation-with-copy-space-laptop.jpg",
+        "title": "Component lifecycle in React — Class component vs Functional component : Lifecycle Methods: Class components provide lifecycle methods like componentDidMount, componentDidUpdate, and componentWillUnmount. Functional components achieve similar functionality using the useEffect hook, which can handle side effects and lifecycle events in a unified API.",
+        "author_img": "https://i.ibb.co/vwGwnhT/boy2.jpg",
+        "author": "Feroze Khan",
+        "posted_date": "July 10, 2023",
+        "reading_time": 10,
+        "hashtags": [
+            "mid_level",
+            "react"
+        ]
+    },
+    {
+        "id": 4,
+        "cover": "https://i.ibb.co.com/mJGqyM3/istockphoto-1210887804-2048x2048.jpg",
+        "title": "Free images and resources collection for website :  To engage visitors, to help users understand content better therefore informing them and answering their questions. All of these things result in a better user experience which is a significant ranking factor for Google",
+        "author_img": "https://i.ibb.co/Sn7zB4q/girl2.jpg",
+        "author": "Anmol Baloch",
+        "posted_date": "June 5, 2023",
+        "reading_time": 9,
+        "hashtags": [
+            "development",
+            "resources"
+        ]
+    }
+]
